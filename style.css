@@ -24,11 +24,6 @@ body {
   background-color: #2196f3;
 }
 
-.modal-btn:hover {
-  background-color: darkblue;
-  transform: scale(1.2);
-}
-
 .timer {
   display: flex;
   justify-content: space-evenly;
